@@ -1,0 +1,24 @@
+{
+"id":"E10000",
+"type":"browser",
+"title":"Frug App",
+"version":"1.00.00",
+"author":"Frug",
+"author_information": "id2359@yahoo.com",
+"publish_date": "2016/06/01",
+"description":[{
+    "LanguageCode": "en",
+    "Description": "Frug's Test App"
+}],
+"changelog":"",
+"launch":" http://www.wdtvchannel1.com/wdtv",
+"launch_args":"",
+"daemon":"",
+"daemon_args":"",
+"requirements": {"network":"1","cookie":"1","navigation_type":""
+		 ,"cehtml_key","1","backdoor":"","redirect_times",""},
+"app_option_image":"image/services_option_abciview.png",
+"app_icon_image":"image/service_icon_abciview.png",
+"region_limitation":["AU"],
+"app_category":["MOVIE_TV","FEATURED"], "user_agent":"",
+}
